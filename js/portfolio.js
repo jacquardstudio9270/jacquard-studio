@@ -63,6 +63,17 @@ const portfolioData = [
         image: "images/portfolio/towels/T001.jpg"
     },
     {
+    id: "T002",
+        category: "towels",
+        image: "images/portfolio/towels/T002.jpg"
+    },
+    {
+    id: "T003",
+        category: "towels",
+        image: "images/portfolio/towels/T003.jpg"
+    },
+    
+    {
         id: "B001",
         category: "bedding",
         image: "images/portfolio/bedding/B001.jpg"

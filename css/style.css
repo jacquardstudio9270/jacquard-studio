@@ -54,23 +54,8 @@ html{
 =========================== */
 
 body {
-  /*  font-family: 'Inter', sans-serif;
-    background:var(--background);*/
-
- /*background-color: #f8f7f3;
-    background-image:
-        radial-gradient(circle at 25px 25px, rgba(0,0,0,.025) 2px, transparent 2px),
-        radial-gradient(circle at 75px 75px, rgba(0,0,0,.02) 2px, transparent 2px);
-    background-size: 100px 100px;*/
-
-
-       font-family: 'Inter', sans-serif;
-        color: var(--text);
-        background-color: #faf9f6;
-        background-image:
-        linear-gradient(rgba(0, 0, 0, 0.35) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0, 0, 0, 0.35) 1px, transparent 1px);
-        background-size: 40px 40px;
+    font-family: 'Inter', sans-serif;
+    background:var(--background);
 }
 
 /* ===========================
@@ -1371,6 +1356,8 @@ img {
     object-fit: cover;
     display: block;
 }   
+
+
 
 }
 
