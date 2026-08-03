@@ -68,8 +68,8 @@ body {
         color: var(--text);
         background-color: #faf9f6;
         background-image:
-        linear-gradient(rgba(0, 0, 0, 0.035) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0, 0, 0, 0.035) 1px, transparent 1px);
+        linear-gradient(rgba(0, 0, 0, 0.35) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, 0.35) 1px, transparent 1px);
         background-size: 40px 40px;
 }
 
@@ -786,16 +786,16 @@ body {
 
  background:
     linear-gradient(
-        rgba(20,20,20,.90),
+        rgba(66, 66, 66, 0.9),
         rgba(20,20,20,.75),
-        rgba(20,20,20,.92)
+        rgba(66,66,66,.92)
     ),
-    linear-gradient(
+    /*linear-gradient(
         135deg,
         rgba(200,164,107,.08),
-        rgba(0,0,0,0)
-    ),
-    url("../images/footer/footer-bg.jpg");
+        rgba(143, 140, 140, 0)
+    ),*/
+    url("../images/footer/footer-bg.png");
 
     background-size:cover;
     background-position:center;
