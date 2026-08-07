@@ -81,12 +81,7 @@ const portfolioData = [
         category: "printed",
         image: "images/portfolio/printed/P009.jpg"
     },
-    {
-        id: "P010",
-        category: "printed",
-        image: "images/portfolio/printed/P010.jpg"
-    },
-    
+       
     // EMBROIDERY    
     {
         id: "E001",
@@ -132,12 +127,7 @@ const portfolioData = [
         id: "E009",
         category: "embroidery",
         image: "images/portfolio/embroidery/E009.jpg"
-    },
-    {
-        id: "E010",
-        category: "embroidery",
-        image: "images/portfolio/embroidery/E010.jpg"
-    },
+    },    
     // TOWEL
     {
         id: "T001",
@@ -198,11 +188,6 @@ const portfolioData = [
     },
     {
         id: "B009",
-        category: "bedding",
-        image: "images/portfolio/bedding/B009.jpg"
-    },
-    {
-        id: "B010",
         category: "bedding",
         image: "images/portfolio/bedding/B010.jpg"
     }
