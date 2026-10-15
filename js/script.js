@@ -77,6 +77,7 @@ function revealSections(){
 
 window.addEventListener("scroll", revealSections);
 
+revealSections();
 window.addEventListener("load", revealSections);
 //=============================
 // Active Navigation
